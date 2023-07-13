@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  height: 300px;
+  width: 500px;
+  background-color: wheat;
+}
